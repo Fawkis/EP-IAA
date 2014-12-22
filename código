@@ -1,0 +1,13 @@
+class obj{ //os objetos que vão ser colocados nas mochilas
+  int p; //peso
+  int v; /valor
+}
+
+
+class EP{
+
+  public static void main(String[]args){
+    
+  }
+  
+}
